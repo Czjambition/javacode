@@ -6,5 +6,6 @@ public class q {
         System.out.println(8.85*3.00);
         System.out.println(8.85*3.00*a);
         System.out.println(8.85*3.00*a*a);
+        System.out.println(8.85*3.00*a*a*a);
     }
 }
