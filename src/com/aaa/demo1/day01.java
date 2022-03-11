@@ -9,5 +9,7 @@ public class day01 {
         int x = scan.nextInt();
         if(x==5)
             System.out.println("true");
+        else
+            System.out.println("false");
     }
 }
